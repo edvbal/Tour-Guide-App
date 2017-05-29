@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Visit Kaunas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="kaunas_castle">Kaunas Castle</string>
+    <string name="kaunas_castle_desc">Kaunas Castle is the oldest stone castle in Lithuania built in the 14th century to resist crusaders’ attacks. A settlement started forming around this Gothic defensive building, growing into the present-day city. The castle was first mentioned in written records in 1361 when it was destroyed by the crusaders. The castle was rebuilt several times but lost its significance when Kaunas was granted the Magdeburg rights in 1408 and town activity moved to Market Square at that time. In the sixteenth century there was a prison in Kaunas Castle and the castle is said to be haunted by prisoners’ spirits which have not found peace yet. At present a branch of the Kaunas City Museum operates in Kaunas Castle and every year cultural city events take place in its vicinity. Santaka Park which is next to Kaunas Castle is called the heart of Kaunas. Here you can see the confluence of the rivers Nemunas and Neris and many places of interest: the altar where pagan rituals took place, Pope Hill visited by Pope John Paul II where he celebrated Mass in 1993, the Statue of Pope John Paul II, St. George the Martyr Church and Bernardine Monastery.</string>
+    <string name="kaunas_castle_address">Pilies g. 17, Kaunas</string>
+
+    <string name="ciurlionis_museum">M.K Čiurlionis National Art museum</string>
+    <string name="ciurlionis_museum_desc">Established in 1921, the M. K. Čiurlionis National Museum of Art has turned into one of the oldest and largest art museums in Lithuania. It is the best place in Lithuania to become acquainted with the development of Lithuanian and international art history and culture, from ancient times to the present day.The primary mission of the museum today is to encourage the understanding of the cultural and artistic processes by collecting, protection, studying and introducing the M. K. Čiurlionis collection, together with Lithuanian and worldwide cultural heritage.</string>
+    <string name="ciurlionis_museum_address">V. Putvinskio g. 55, Kaunas</string>
+
+    <string name="ix_fort_museum">The Ninth Fort museum</string>
+    <string name="ix_fort_desc">The Ninth Fort is one of the defences of Kaunas fortress and a historical and architectural monument protected by the state. There has been a museum in the Ninth Fort where visitors may learn about interesting and distinctive architecture of war of Kaunas Fortress defences, and explore the examples of weaponry and accoutrements of World War I. Accompanied by a guide, visitors may see the inside of a defensive wall and posterns. Another part of the exposition shows a period of the division of Kaunas Hard Labour Prison and introduces prisoners’ mode of life, it reconstructs episodes of repressions performed by NKVD and reveals the extent of Nazi’s crimes. There is a big exposition in authentic cells on the walls of which you may see people’s dying records; it reveals Jews’ tragedy in Lithuania and tells the story of Kaunas Ghetto and massacre. The place of wholesale slaughter is represented by the monument of three sculptural groups designed by a sculptor Alfonsas Ambraziūnas. The monument is 32 meters high. Kaunas Ninth Fort Museum is a favourable place for families, students, groups of visitors or individual visitors to spend time in a meaningful way and learn about history. Various events and commemorations take place in the museum; the visitors are provided guide services, educational activities are organized and there is a possibility to get acquainted with the exposition using an audio and video guide.</string>
+    <string name="ix_fort_address">Žemaičių pl. 73, Kaunas</string>
+
+    <string name="atomic_bunker">Atomic bunker</string>
+    <string name="atomic_bunker_desc">Atomic bunker is a unique attraction in Kaunas. This is a museum founded in the bunker, 6 meters under the ground. It’s private collection is the only of this kind in the world. It has more than 1,200 unusual functioning exhibits. Among the largest range of gas masks for adults you can see also masks for children and horses. You will be surprised about the abundance of radiation meters, civil protection devices, air horns, mobile chemical laboratories, closed-circuit breathing apparatuses, diving equipment, civil defence medical devices and instruments, electric generators, air compressors and a variety of portable floodlights.</string>
+    <string name="atomic_bunker_address">Raudondvario pl. 164A, Kaunas</string>
+
+    <string name="kaunas_town_hall">Kaunas Town Hall</string>
+    <string name="kaunas_town_hall_desc">The construction of Kaunas Town Hall, also called the White Swan, was started in July 1542 according to the architect Benediktas Choinauskis’ project. The building, which is several hundred years old, has been reconstructed more than once; not only its interior but also the exterior was changed and various architectural styles were applied. At present there are elements of three styles, Gothic, Baroque and early Classicism, which dominate the architecture of the Town Hall. Like its architecture, the purpose of the Town Hall differed as well: there was trade accommodation on the ground floor and the management accommodation on the first floor. A prison where persons who had violated the law waited for a verdict was in the basement. Even now you can see iron chains or a punishment room in the basement. Later an Orthodox Church, an artillery ammunition storeroom, Russian tsars’ residence, a fire-station, a theatre and other institutions were established in the Town Hall. At present wedding ceremonies and official events take place in the Town Hall. Kaunas city museum and tourism information center are also located in the Town Hall. Every year the main city celebrations take place in the Town Hall Square: The Christmas Tree Lighting Festival, Kaunas Hansa Days and other important events to the city commemorations.</string>
+    <string name="kaunas_town_hall_address">Rotušės a. 15, Kaunas</string>
+
+    <string name="aleksotas_funicular">Aleksotas funicular</string>
+    <string name="aleksotas_funicular_desc">Kaunas is the only city which has this oldest means of transport. This \"little house going up the hill\" is used at present both as a mean of transport and for entertainment. Aleksotas Funicular which has been operating since 1935 joins the old part of the city and Aleksotas slopes. You may go up by this funicular to the panoramic viewpoint where you can admire the outstanding beauty of the panorama of the Kaunas city. Aleksotas funicular will be closed on 11 - 24 days, because of annual reconstruction.</string>
+    <string name="aleksotas_funicular_address">Amerikos Lietuvių g.</string>
+
+    <string name="thunder_house">Thunder House</string>
+    <string name="thunder_house_desc">Perkūnas House (Thunder House) is one of the most original and impressive residential houses of Gothic style in Lithuania, with the original eastern façade. Bricks of up to 16 different profiles were used in this façade, it is considered that the building was built in the late 15th century. The building is famous not only for stories about Hansa community merchants but also for the statue of God Perkūnas (Thunder) found in the wall of the building in the 19th century, which determined the name of this object. Supposedly, the name Perkūnas was given in order to honour traditions of paganism, the old Lithuanian faith. The first Drama theatre of Kaunas was established here in 1843, however at present Perkūnas House belongs to the Jesuit Gymnasium and houses the Memorial Museum of Adomas Mickevičius. This building is symbolically associated with Hansa merchants; therefore, it is one of the most popular places during Hansa celebrations.</string>
+    <string name="thunder_house_address">Aleksoto g. 6, Kaunas</string>
+
+    <string name="republic_bar">RePUBlic</string>
+    <string name="republic_bar_desc">RePUBlic – English style pub at Kaunas city center.</string>
+    <string name="republic_bar_address">Laisvės al.57, Kaunas</string>
+
+    <string name="bajorkiemis_city">Bajorkiemis city</string>
+    <string name="bajorkiemis_city_desc">„BAJORKIEMIS city“- restaurant in city center.</string>
+    <string name="bajorkiemis_city_address">Kęstučio g. 86</string>
+
+    <string name="peledine_burgers">Pelėdinė</string>
+    <string name="peledine_burgers_desc">As they say - this is the tastiest Burger in Kaunas. It is a place not only to eat delicious dishes, but also to have a cozy evening with friends.</string>
+    <string name="peledine_burgers_address">Šv. Gertrūdos g. 22, Kaunas</string>
+
+    <string name="bella_italia">Bella Italia</string>
+    <string name="bella_italia_desc">Italian pizza restaurant „Bella Italia“.</string>
+    <string name="bella_italia_address">S. Daukanto g. 14, Kaunas</string>
+
+    <string name="diverso">Diverso</string>
+    <string name="diverso_desc">Restaurant Diverso, located at the Park Inn by Radisson hotel, is a top choice for high-quality European cuisine.</string>
+    <string name="diverso_address">K. Donelaičio g. 27, Kaunas</string>
+
+    <string name="park_inn_kaunas">Park Inn By Radisson Kaunas ****</string>
+    <string name="park_inn_kaunas_desc">Park Inn by Radisson is located in Kaunas, 185 m from the Laisvės Alėja, which features numerous cafés and restaurants, and 1 km from the the Akropolis Shopping and Leisure Centre. This 4 plus star hotel offers spacious, air-conditioned rooms with cable channels and free high-speed Wi-Fi. Guests can also work out in the fitness centre or visit the sauna, free of charge. Free private parking is available. The rooms of the Park Inn by Radisson Kaunas feature classic interior design with Scandinavian influences. All include a a work desk. Standard and Business Friendly rooms include a safe. The private bathrooms have a shower and a hairdryer. The hotel has a casino onsite as well as a spa and wellness centre with a solarium, a massage parlour and a Turkish bath, available for an additional surcharge. Hotel’s Olympic Casino is open all day. There also is a modern conference and events centre with eight multi-functional rooms.</string>
+    <string name="park_inn_kaunas_address">K. Donelaičio g. 27, Kaunas</string>
+
+    <string name="kaunas_hotel">Kaunas hotel ****</string>
+    <string name="kaunas_hotel_desc">Located in the centre of Kaunas, this 4-star hotel is located directly on Laisvės Alėja. It features an indoor pool and air-conditioned rooms with free Wi-Fi and mineral water. Free private parking is available. The rooms of the Hotel Kaunas are spacious and feature a classic interior design. All have a work desk, satellite TV, minibar and refrigerator. Most have a balcony. The Old Town is 800 m from the Kaunas. The Kaunas State Musical Theatre is 450 m away, and the Museum of Zoology is within 300 m. The large fitness centre at the Kaunas features Technogym equipment. A sauna is available for guests to relax in. There is also a safebox, a fax and a conference room. It also offers such services as shoe shine and airport shuttle. Lithuanian and international cuisine is served at the restaurant 55. A coffee bar and 24-hour room service are also available.</string>
+    <string name="kaunas_hotel_address">Laisvės al. 79, Kaunas</string>
+
+    <string name="hermis_hotel">Hermis ****</string>
+    <string name="hermis_hotel_desc">This modern 4-star hotel offers rooms with free Wi-Fi access and free, secure parking. It is located between the center and the airport of Kaunas. Hermis Hotel features an indoor pool, a spa area, a beauty parlor, and a souvenir shop. Babysitting services are available on request. The Portofino restaurant serves Italian cuisine. The Hermis is located just off the Vilnius-Klaipeda freeway. Savanoriu Avenue, the main street of Kaunas, connects the hotel with the historic quarter and the airport. Both are about 4.3 km away. The center of the city can be easily reached by public transportation from Hotel Hermis.</string>
+    <string name="hermis_hotel_address">Savanorių pr. 404, Kaunas</string>
+
+    <string name="europa_royale_hotel">Europa Royale Kaunas ****</string>
+    <string name="europa_royale_hotel_desc">Located in the centre of Kaunas, Europa Royale is located 500 m from the Žalgiris Arena, 400 m from Laisvės alėja and just 100 m from Akropolis Shopping and Entertainment Centre. It offers air-conditioned rooms with a minibar. It offers free Wi-Fi in public areas and free private parking. The rooms of the Europa Royale Kaunas feature an elegant interior design. Some feature reproductions of known art works. All have a private bathroom with either a shower or a bathtub and a hairdryer. Guests of the Royale Kaunas have access to the hotel’s spa centre at an extra charge, which boasts a sauna, hot tub and steam bath. The hotel’s staff is available 24 hours a day and provides tour information. It can also arrange an airport shuttle. Kaunas Central Station is 1 km away.</string>
+    <string name="europa_royale_hotel_address">Miško g. 11, Kaunas</string>
+
+    <string name="santaka_hotel">Santaka hotel ****</string>
+    <string name="santaka_hotel_desc">Hotel is located in Kaunas, less than 100 m from the Old Town. It offers air-conditioned rooms with cable TV and free WiFi. Free private parking is available. Guests enjoy free sauna and swimming pool access in the mornings. The spacious rooms of the Santakos feature a classic interior design, bright pastel-coloured walls and wooden furniture. All have a refrigerator. Most have seating areas. The Santakos’s staff is available 24/7. Guests can hire a car directly at the hotel. The Town Hall is 850 m from the hotel, and the historical Presidential Palace is 500 m away. The Zoological Museum is within 300 m. The hotel’s restaurant serves international and Lithuanian dishes. Breakfast is also available.</string>
+    <string name="santaka_hotel_address">J. Gruodžio g. 21, Kaunas</string>
+
+    <string name="sauleja_spa">Saulėja SPA</string>
+    <string name="sauleja_spa_desc">One of the biggest spa centers in Kaunas with a wealth of beauty and spa entertainment, different saunas and a hammam.</string>
+    <string name="sauleja_spa_address">K. Donelaičio g. 27, Kaunas</string>
+
+    <string name="lokes_peda_park">Extreme adventure park Lokės Pėda</string>
+    <string name="lokes_peda_park_desc">The first adventure park in Lithuania, located in a quiet valley of the Lokys stream, meant for lovers of nature and active leisure.</string>
+    <string name="lokes_peda_park_address">Lokėnėlių k., Jonavos r.</string>
+
+    <string name="kaunas_areo_club">Kaunas Aero Club</string>
+    <string name="kaunas_areo_club_desc">Kaunas Aero Club - it\'s aerobatics sports organization in which the pilots\' school.</string>
+    <string name="kaunas_areo_club_address">Veiverių g. 132, Kaunas</string>
+
+    <string name="break_free_room">Break Free escape room</string>
+    <string name="break_free_room_desc">Break Free - it\'s a type of attraction, where a team is locked up in a room and needs to escape from it in 60 min by searching for clues and solving puzzles.</string>
+    <string name="break_free_room_address">K. Donelaičio g. 40, Kaunas</string>
+</resources>

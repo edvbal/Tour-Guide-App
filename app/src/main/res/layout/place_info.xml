@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/parentPlaceInfoActivity">
+
+    <LinearLayout style="@style/parentLinearLayoutPlaceInfo">
+
+        <ImageView
+            android:id="@+id/picture"
+            style="@style/imageViewPlaceInfo" />
+
+        <View style="@style/lineViewPlaceInfo" />
+
+        <LinearLayout style="@style/childLinearLayoutPlaceInfo">
+
+            <TextView
+                android:id="@+id/name"
+                style="@style/textViewPlaceInfo" />
+
+            <ImageView
+                android:id="@+id/place_icon"
+                style="@style/imageViewIconPlaceInfo" />
+        </LinearLayout>
+
+        <View style="@style/lineViewPlaceInfo" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</ScrollView>

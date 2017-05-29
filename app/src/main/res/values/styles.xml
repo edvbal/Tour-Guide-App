@@ -1,0 +1,110 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--activity_main.xml........................................................................-->
+    <style name="parentMainActivity">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/background</item>
+    </style>
+    <style name="tabLayoutMainActivity">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+    <!--.........................................................................................-->
+
+    <!--list_item_layout.xml.....................................................................-->
+    <style name="parentListItemActivity">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/list_item_height</item>
+        <item name="android:minHeight">@dimen/list_item_height</item>
+    </style>
+    <style name="imageViewListItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/list_item_image_height</item>
+        <item name="android:layout_margin">@dimen/margin16</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="textViewListItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/list_item_text_height</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:background">@color/transparant_black</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_margin">@dimen/margin16</item>
+    </style>
+    <style name="lineViewListItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:background">@color/lightGray</item>
+        <item name="android:layout_margin">@dimen/margin16</item>
+    </style>
+    <!--.........................................................................................-->
+
+    <!--place_info_layout.xml.....................................................................-->
+    <style name="parentPlaceInfoActivity">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:fillViewport">true</item>
+        <item name="android:background">@color/background</item>
+    </style>
+    <style name="parentLinearLayoutPlaceInfo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/margin16</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="childLinearLayoutPlaceInfo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/child_linear_layout_height</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="imageViewPlaceInfo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/image_place_info_height</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="lineViewPlaceInfo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/lightGray</item>
+        <item name="android:layout_marginBottom">@dimen/margin16</item>
+        <item name="android:layout_marginTop">@dimen/margin16</item>
+    </style>
+    <style name="textViewPlaceInfo">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">5</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="imageViewIconPlaceInfo">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:src">@drawable/place_icon</item>
+    </style>
+    <!--.........................................................................................-->
+
+    <!--place_list.xml........................................................................-->
+    <style name="parentPlaceList">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:drawSelectorOnTop">true</item>
+    </style>
+    <!--.........................................................................................-->
+
+</resources>

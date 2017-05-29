@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="list_item_height">120dp</dimen>
+    <dimen name="list_item_image_height">110dp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="list_item_text_height">25dp</dimen>
+    <dimen name="child_linear_layout_height">25dp</dimen>
+    <dimen name="image_place_info_height">200dp</dimen>
+</resources>
