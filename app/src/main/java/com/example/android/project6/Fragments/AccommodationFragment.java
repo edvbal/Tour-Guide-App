@@ -22,9 +22,9 @@ import java.util.ArrayList;
  */
 public class AccommodationFragment extends Fragment {
 
-    ArrayList<Place> places = new ArrayList<>();
-    ListView listView;
-    PlaceAdapter placeAdapter;
+    private ArrayList<Place> places = new ArrayList<>();
+    private ListView listView;
+    private PlaceAdapter placeAdapter;
 
     public AccommodationFragment() {
         // Required empty public constructor

@@ -24,15 +24,13 @@ public class PagerAdapter extends FragmentPagerAdapter{
     }
     @Override
     public Fragment getItem(int position) {
-        if (position == 0)
-            return new ToSeeFragment();
-        else if (position == 1)
-            return new ToDoFragment();
-        else if (position == 2)
-            return new AccommodationFragment();
-        else
-            return new EatAndDrinkFragment();
+        switch (position){
+            case 0: return new ToSeeFragment();
+            case 1: return new ToDoFragment();
+            case 2: return new AccommodationFragment();
+            default: return new EatAndDrinkFragment();
         }
+    }
     @Override
     public int getCount() {
         return NUM_ITEMS;
@@ -41,10 +39,10 @@ public class PagerAdapter extends FragmentPagerAdapter{
     @Override
     public CharSequence getPageTitle(int position){
         String tabTitles[] = new String[]{
-                "To see",
-                "To do",
-                "Accommodation",
-                "Eat and drink"};
+                context.getString(R.string.tab_to_see),
+                context.getString(R.string.tab_to_do),
+                context.getString(R.string.tab_accommodation),
+                context.getString(R.string.tab_eatndrink)};
         return tabTitles[position];
         }
     }

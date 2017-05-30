@@ -85,4 +85,8 @@
     <string name="break_free_room">Break Free escape room</string>
     <string name="break_free_room_desc">Break Free - it\'s a type of attraction, where a team is locked up in a room and needs to escape from it in 60 min by searching for clues and solving puzzles.</string>
     <string name="break_free_room_address">K. Donelaičio g. 40, Kaunas</string>
+    <string name="tab_to_see">To see</string>
+    <string name="tab_to_do">To do</string>
+    <string name="tab_accommodation">Accommodation</string>
+    <string name="tab_eatndrink">Eat and drink</string>
 </resources>

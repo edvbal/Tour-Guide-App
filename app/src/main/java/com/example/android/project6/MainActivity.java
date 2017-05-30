@@ -7,9 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    ViewPager menuPager;
-    PagerAdapter fragmentPagerAdapter;
-    TabLayout menuTabs;
+    private ViewPager menuPager;
+    private PagerAdapter fragmentPagerAdapter;
+    private TabLayout menuTabs;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

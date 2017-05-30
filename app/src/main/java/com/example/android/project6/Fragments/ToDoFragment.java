@@ -21,9 +21,9 @@ import java.util.ArrayList;
  * A simple {@link Fragment} subclass.
  */
 public class ToDoFragment extends Fragment {
-    ArrayList<Place> places = new ArrayList<>();
-    ListView listView;
-    PlaceAdapter placeAdapter;
+    private ArrayList<Place> places = new ArrayList<>();
+    private ListView listView;
+    private PlaceAdapter placeAdapter;
 
     public ToDoFragment() {
         // Required empty public constructor

@@ -15,7 +15,7 @@ import java.util.ArrayList;
  */
 
 public class PlaceAdapter extends ArrayAdapter<Place>{
-    Place place;
+    private Place place;
 
     public PlaceAdapter(Context context, ArrayList<Place> place) {
         super(context,0,place);
@@ -23,18 +23,18 @@ public class PlaceAdapter extends ArrayAdapter<Place>{
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        View listItemView = convertView;
-        if (listItemView == null)
-            listItemView = LayoutInflater.from(getContext()).inflate(R.layout.list_item_layout,parent,false);
+        View recyclerItemView = convertView;
+        if (recyclerItemView == null)
+            recyclerItemView = LayoutInflater.from(getContext()).inflate(R.layout.list_item_layout,parent,false);
 
         place = getItem(position);
 
-        ImageView image = (ImageView) listItemView.findViewById(R.id.image);
-        TextView name = (TextView) listItemView.findViewById(R.id.text);
+        ImageView image = (ImageView) recyclerItemView.findViewById(R.id.image);
+        TextView name = (TextView) recyclerItemView.findViewById(R.id.text);
 
         image.setImageResource(place.getThumbnail());
         name.setText(place.getName());
 
-        return listItemView;
+        return recyclerItemView;
     }
 }

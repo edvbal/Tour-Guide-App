@@ -18,7 +18,8 @@
 
             <ImageView
                 android:id="@+id/place_icon"
-                style="@style/imageViewIconPlaceInfo" />
+                style="@style/imageViewIconPlaceInfo"
+                android:onClick="showMap"/>
         </LinearLayout>
 
         <View style="@style/lineViewPlaceInfo" />

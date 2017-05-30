@@ -22,9 +22,9 @@ import java.util.ArrayList;
  */
 public class ToSeeFragment extends Fragment {
 
-    ArrayList<Place> places = new ArrayList<>();
-    ListView listView;
-    PlaceAdapter placeAdapter;
+    private ArrayList<Place> places = new ArrayList<>();
+    private ListView listView;
+    private PlaceAdapter placeAdapter;
 
     public ToSeeFragment() {
         // Required empty public constructor

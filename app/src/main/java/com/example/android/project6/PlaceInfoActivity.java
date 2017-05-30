@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -14,9 +13,9 @@ import android.widget.TextView;
 
 public class PlaceInfoActivity extends AppCompatActivity{
 
-    ImageView picture, placeIcon;
-    TextView name;
-    TextView description;
+    private ImageView picture, placeIcon;
+    private TextView name;
+    private TextView description;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,16 +33,13 @@ public class PlaceInfoActivity extends AppCompatActivity{
         picture.setImageResource(intent.getIntExtra("picture",0));
         name.setText(intent.getStringExtra("name"));
         description.setText(intent.getStringExtra("description"));
+    }
+    public void showMap(){
+        Intent intent = getIntent();
+        Uri gmmIntentUri = Uri.parse("geo:?q="+intent.getStringExtra("address"));
+        Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
+        mapIntent.setPackage("com.google.android.apps.maps");
+        startActivity(mapIntent);
 
-        placeIcon.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = getIntent();
-                Uri gmmIntentUri = Uri.parse("geo:?q="+intent.getStringExtra("address"));
-                Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
-                mapIntent.setPackage("com.google.android.apps.maps");
-                startActivity(mapIntent);
-            }
-        });
     }
 }
